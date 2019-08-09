@@ -2,7 +2,7 @@
 
 - Luke Skywalker
 
-- Dhiar Leia Organa
+- Dhiar Leia
 
 - Han Solo
 
