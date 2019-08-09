@@ -2,7 +2,7 @@
 
 - Luke Skywalker
 
-- Leia
+- Leia Usva Dhiar
 
 - Han Solo
 
