@@ -1,18 +1,18 @@
 # Star Trek characters
 
-- Captain Kirk
+- Captain Kirk A
 
-- Captain Picard
+- Captai Picard A
 
 - Captain Janeway
 
-- Captain Cisco
+- Captai Cisco A
 
 - Captain Archer
 
-- Commander Spock
+- Coander Spock
 
-- Commander Ryker
+- Coander Ryker A
 
 - Commander LaForge
 
