@@ -4,13 +4,13 @@
 
 - Leia Organa1
 
-- Han dhiar Solo
+- Han Solo
 
 - Chewbacca
 
 - Skywalker
 
-- Yoda dhiar
+- Yoda 
 
 - C3PO
 

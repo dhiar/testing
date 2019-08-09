@@ -1,13 +1,13 @@
 # Hogwarts characters
 
-- Harry dhiar Potter
+- Harry Potter
 
 - Hermione Granger
 
-- dhiar Ron Weasley
+-  Ron Weasley
 
 - Neville Long
 
 - Aus Dumbledore
 
-- 'agrid dhiar
+- 'agrid 

@@ -1,10 +1,10 @@
 # A list
 
-- dhiar item one
+- item one
 
 - item two
 
-- item three dhiar
+- item three
 
 - item four
 
