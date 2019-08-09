@@ -2,16 +2,16 @@
 
 - Luke Skywalker
 
-- Leia Organa
+- Leia Organa Dhiar
 
 - Han Solo
 
 - Chewbacca
 
-- Annakin Skywalker
+- Dhiar Skywalker
 
-- Yoda
+- Yda abc
 
 - C3PO
 
-- R2D2
+- abc R3D2
