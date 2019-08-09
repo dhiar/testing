@@ -1,16 +1,16 @@
 # Star Wars characters
 
-- Luke Skywalker
+- Luker Skywalker
 
-- Leia Organa
+- Leia Organa1
 
-- Han Solo
+- Han dhiar Solo
 
 - Chewbacca
 
 - Skywalker
 
-- Yoda
+- Yoda dhiar
 
 - C3PO
 
